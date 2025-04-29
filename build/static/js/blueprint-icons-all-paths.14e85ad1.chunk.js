@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_projects=self.webpackChunkreact_projects||[]).push([[860],{780:(e,t,c)=>{c.r(t),c.d(t,{IconSvgPaths16:()=>n,IconSvgPaths20:()=>a,getIconPaths:()=>o,iconNameToPathsRecordKey:()=>u});var r=c(902),n=c(277),a=c(218),s=c(455);function o(e,t){var c=(0,r.fL)(e);return t===s.l.STANDARD?n[c]:a[c]}function u(e){return(0,r.fL)(e)}}}]);
+//# sourceMappingURL=blueprint-icons-all-paths.14e85ad1.chunk.js.map
